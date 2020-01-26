@@ -1,0 +1,9 @@
+
+h1 {
+    background-color: blue; margin-top: 50px; border-radius: 20px;
+    border-style:outset;
+    padding: 40px;
+} 
+h2  {
+    background-color: blue; margin-top: 50px; border-radius: 20px; border-style: outset; padding: 40px;
+}
